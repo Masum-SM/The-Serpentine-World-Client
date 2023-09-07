@@ -1,0 +1,17 @@
+
+
+.remove-btn{
+    padding: 16px 10px;
+    border: 2px solid red;
+    
+}
+
+.remove-btn:hover{
+    background-color: red;
+}
+.dlt_icon{
+    color: rgb(218, 28, 28);
+}
+.dlt_icon:hover{
+    color: white;
+}

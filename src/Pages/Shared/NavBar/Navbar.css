@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+.nav_icon_re{
+    font-family: 'Borel', cursive;
+    color: white;
+}
+
+.nav_li{
+    font-weight: 900;
+    font-family: serif;
+    font-size: 20px;
+}
+.nav_icon_re .zero{
+    color: rgb(5, 236, 5);
+    margin: 0px 10px;
+}
+.nav_icon_re img{
+    width: 50px;
+}
+.nv_bg{
+    background-color: rgb(10, 128, 10);
+    position: sticky;
+    
+}
+.nav_btn{
+    color: white;
+}
+.icon_clr{
+    /* border-color: rgb(253, 80, 0); */
+    border: 3px solid rgb(212, 236, 192);
+    background-color: rgb(10, 204, 10);
+}
+
+.drop_bg{
+    background-color: green !important;
+    color: white;
+}
+
+.dark_btn{
+    border: 2px solid white;
+    border-radius: 50px;
+    color: black;
+}

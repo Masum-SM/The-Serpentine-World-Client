@@ -1,0 +1,23 @@
+.notice_container{
+    height: 100% !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    /* background:linear-gradient(rgba(30, 29, 31, 0.591), rgba(13, 13, 13, 0.534)), url("https://i.ibb.co/74YzKvc/s.jpg") fixed; */
+    background:linear-gradient(rgba(30, 29, 31, 0.591), rgba(13, 13, 13, 0.534)), url("../img/s.jpg") fixed;
+    width: 100%;
+    /* padding: 10px; */
+}
+.notice_body{
+    padding: 104px 30px;
+    max-width: 90%;
+    font-size: 28px;
+}
+.notice-title h2{
+    color:#18f247;
+    font-weight: 800;
+    text-align: center;
+    font-size: 28px;
+}
+.notice_slide{
+    color: white;
+}

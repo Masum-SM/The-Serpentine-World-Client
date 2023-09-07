@@ -1,0 +1,91 @@
+
+[
+    {
+        "id":1,
+        "img": "https://i.ibb.co/280K4SZ/img1.jpg",
+        "name": "Captopril",
+        "price": "305tk",
+        "effect": " Derived from the venom of the Brazilian pit viper (Bothrops jararaca) and used to treat hypertension and heart conditions.Captopril is used alone or together with other medicines to treat high blood pressure (hypertension).High blood pressure adds to the workload of the heart and arteries.If it continues for a long time,the heart and arteries may not function properly.As a whole captopril caused a significant decrease in blood pressure without compensatory increase in heart rate."
+    },
+    {
+        "id":2,
+        "img": "https://i.ibb.co/2vQrg74/img2.jpg",
+        "name": "Eptifibatide",
+        "price": "200-500tk",
+        "effect": "Inspired by the venom of the southeastern pygmy rattlesnake (Sistrurus miliarius barbouri),Eptifibatide is used to prevent blood clots or heart attack in people with severe chest pain or other conditions, and in those who are undergoing a procedure called angioplasty (to open blocked arteries).It may also be used in patients who are having certain heart and blood vessel procedures, such as coronary angioplasty."
+    },
+    {
+        "id":3,
+        "img": "https://i.ibb.co/XkKJ8hW/img3.jpg",
+        "name": "Ancrod",
+        "price": "54tk",
+        "effect": "Derived from the venom of the Malayan pit viper (Agkistrodon rhodostoma) and previously used as an anticoagulant.For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery."
+        
+    },
+    {
+        "id":4,
+        "img" : "https://i.ibb.co/tQfBHZm/img4.jpg",
+        "name": "Batroxobin",
+        "price" : "Unit price 126.00 tk",
+        "effect" :  "A thrombin-like enzyme used in blood coagulation tests and to treat blood clotting disorders.Batroxobin has also been investigated for the treatment of deep vein thrombosis and cerebral infarction as it promotes thrombolysis, prevents recurrence of thrombus, and provides neuroprotection (5-8)."
+    },
+    
+    {
+        "id":5,
+        "img" : "https://i.ibb.co/vzPyWVV/img5.jpg",
+        "name" : "Viprinex",
+        "price" : "3,800tk",
+        "effect" :  "An investigational drug for treating acute ischemic stroke.Ancrod's anticoagulant effects are through the rapid removal of fibrinogen from the blood within hours following ancrod administration. Ancrod specifically cleaves only the alpha chain of fibrinogen, producing the characteristic fibrinopeptides A, AP and AY, not the B-fibrinopeptide.O"
+    },
+    {
+        "id":6,
+        "img" : "https://i.ibb.co/m5BVgq1/img6.jpg",
+        "name" : "Tirofiban",
+        "price" : "900 tk",
+        "effect": "Another antiplatelet drug used in certain medical procedures.TIROFIBAN blocks platelets from forming blood clots.It is used to prevent complications during episodes of chest pain or a heart attack, or during a procedure to treat a blocked artery of the heart.Tirofiban, sold under the brand name Aggrastat, is an antiplatelet medication. It belongs to a class of antiplatelets named glycoprotein IIb/IIIa inhibitors. It may also be used in patients who are having certain heart and blood vessel procedures."
+        
+        
+    },
+    {
+        "id":7,
+        "img" : "https://i.ibb.co/jgw3V1w/img7.jpg",
+        "name" : "Arvin",
+        "price" : "1600",
+        "effect" :  "Used in traditional Chinese medicine for treating arthritis and other inflammatory conditions.Arvin 250mg Tablet is an antibiotic used to treat various types of bacterial infections of the respiratory tract, ear, nose, throat, lungs, skin, and eye in adults and children. It is also effective in typhoid fever and some sexually transmitted diseases like gonorrhea."
+    },
+    {
+        "id":8,
+        "img": "https://i.ibb.co/12gcb31/img8.jpg",
+        "name": "Calmette's Antivenin",
+        "price": "85-129 tk per dose",
+        "effect": "An antivenom used to treat snakebite envenomation. This is a combination of four venoms that is prescribed in the treatment of snakebite. It neutralizes the venom and prevents life-threatening events.It can minimize local, hematologic,and systemic effects following copperhead, cottonmouth,and rattlesnake envenomation. Although it is most useful if started within 5.5 hours of the envenomation, it can still provide benefit even several days after the envenomation"
+    },
+    {
+        "id":9,
+        "img": "https://i.ibb.co/yhX88qh/img9.jpg",
+        "name": "CroFab",
+        "price": "2000-5000 per pill",
+        "effect": "Crofab is indicated for the management of adult and pediatric patients with North American crotalid envenomation. The term crotalid is used to describe the Crotalinae subfamily (formerly known as Crotalidae) of venomous snakes which includes rattlesnakes, copperheads and cottonmouths/water moccasins."
+    },
+    {
+        "id":10,
+        "img" : "https://i.ibb.co/tsWZyyq/img10.jpg",
+        "name" : "Ziconotide",
+        "price" : "2000-2500tk per dose",
+        "effect" :  "Ziconotide is a newer, intrathecal analgesic medication used for the treatment of chronic pain. Its FDA indication is for treating chronic severe pain in patients intolerant or refractory to systemic analgesics or intrathecal morphine."
+    },
+    {
+        "id":11,
+        "img" : "https://i.ibb.co/r5ZSF2j/img11.jpg",
+        "name" : "Byetta",
+        "price" : "per injectable 8600tk",
+        "effect" :  "Byetta (generic name Exenatide) is used to treat people with type 2 diabetes Byetta is an injectable drug that helps to lower blood sugar levels in a way that does not promote weight gain. Whilst Byetta is injected, it is not insulin, but is a drug in the class of diabetic drugs called incretin mimetics."
+    },
+    {
+        "id":12,
+        "img" : "https://i.ibb.co/7v10S26/img12.jpg",
+        "name" : "Contortrostatin",
+        "price" : "1350tk per dose",
+        "effect" :  "Contortrostatin from the Broad Banded Copperhead snake (Agkistrodon contortrix) is a homodimeric disintegrin, each subunit having a molecular mass of 6750 Da. Contortrostatin inhibits β1-integrin-mediated cell adhesion of human melanoma and blocks experimental metastasis of these tumors and breast cancers."
+    }
+]

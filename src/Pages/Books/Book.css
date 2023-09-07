@@ -1,0 +1,37 @@
+
+
+.book_container{
+    background-color: rgb(119, 121, 119);
+    color: white;
+}
+.bks_clr{
+    color: rgb(20, 248, 20);
+}
+.book_Img{
+    width: 90%;
+    /* padding: 10px; */
+    
+    
+}
+.book_Img img{
+    width: 250px;
+    /* padding: 20px; */
+}
+.b_c_d{
+    text-align: justify;
+}
+.book_title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: large;
+    color: black;
+}
+
+.book_w{
+    font-family: 'sans-serif';
+    color: green;
+    font-weight: 700;
+}
+.bk_btn{
+    border: 2px solid rgb(5, 185, 5);
+}

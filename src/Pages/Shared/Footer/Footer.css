@@ -1,0 +1,71 @@
+.bg-dark{
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+.footer_top_container{
+    background-color: rgb(5, 66, 5);
+    color: white;
+}
+
+.footer_top{
+    padding: 15px 10px;
+}
+.footer_top h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 17px;
+}
+.footer_top p{
+    color: rgb(226, 252, 234);
+    font-weight: 500;
+}
+.ft_angle_icon{
+    color: rgb(244, 226, 192);
+}
+.footer_top input{
+    border: black;
+    padding: 12px 20px;
+    margin-top: 20px;
+    max-width: 70%;
+}
+.footer_top button{
+    background-color: rgb(8, 168, 8);
+    border: 2px solid rgb(9, 230, 9);
+    color: white;
+    padding: 12px 18px;
+    margin-top: 20px;
+    margin-left: 8px;
+    font-weight: 700;
+    font-size: 18px;
+}
+.footer_top button:hover{
+    color: red;
+}
+.footer_head2{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: serif;
+}
+.footer_bottom{
+    background-color: rgb(26, 24, 24);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-align: center !important;
+}
+.footer_bottom p{
+    text-align: center !important;
+}
+
+.e_input{
+    border: 1px solid rgb(9, 230, 9) !important;
+    border-radius: 5px;
+    color: black;
+    
+}
+.fot_Img{
+    text-align: center;
+    width: 60px;
+    margin: auto;
+}

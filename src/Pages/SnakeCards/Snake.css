@@ -1,0 +1,52 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+  
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+  
+  
+  @import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+
+  
+.section_header{
+    text-align: center;
+    /* font-family: 'Borel', cursive; */
+    /* font-family: 'Great Vibes', cursive; */
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: rgb(10, 128, 10);
+}
+.section_header2{
+    letter-spacing: 7px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    border-bottom: 3px solid rgb(7, 100, 7);
+   
+}
+.header_info{
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    
+}
+.s_card_bg{
+    background-color: rgb(115, 119, 108);
+    color: white;
+}
+
+.s_name{
+    background-color: rgb(240, 245, 240);
+    color: rgb(7, 100, 7);
+    border: 2px solid rgb(53, 168, 53);
+    font-weight: 500;
+    padding: 10px;
+}

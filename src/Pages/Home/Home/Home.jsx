@@ -1,12 +1,23 @@
-import SnakeCards from "../../SnakeCards/SnakeCards";
+
 import Banner from "../Banner/Banner";
+import EmailHome from "../EmailHOme/EmailHome";
+import HomeMedicine from "../HomeMdedicine/HomeMedicine";
+import SnakeBrand from "../SnakeBrand/SnakeBrand";
+import SnakesHome from "../SnakeHome/SnakesHome";
+
 
 
 const Home = () => {
+
+
+
     return (
-        <div>
+        <div className="bg-black  dark:bg-white">
             <Banner></Banner>
-            <SnakeCards></SnakeCards>
+            <SnakesHome></SnakesHome>
+            <SnakeBrand></SnakeBrand>
+            <HomeMedicine></HomeMedicine>
+            <EmailHome></EmailHome>
         </div>
     );
 };

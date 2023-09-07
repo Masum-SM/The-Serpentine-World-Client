@@ -1,0 +1,79 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+.dash_bg_top{
+
+    background-color: rgb(2, 71, 2);
+    color: white;
+    letter-spacing: 14px;
+    padding-left: 20px;
+}
+.dash_bg_top h1{
+  text-align: center !important;
+  margin: auto;
+}
+.dash_bg{
+    background-color: rgb(2, 71, 2);
+    color: white;
+    font-weight: 600;
+    /* font-family: Righteous,cursive; */
+    /* font-family: 'Space Grotesk', sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
+}
+.des_icon{
+  color: rgb(52, 250, 45);
+}
+
+.dash_logo_name{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Borel', cursive;
+  /* font-family: 'Lobster Two', cursive; */
+  letter-spacing: 0;
+}
+
+.btn_logout{
+  font-weight: 800;
+  border: 3px solid green;
+  width: 70%;
+  margin:0 auto;
+  color: white;
+  background-color: rgb(2, 49, 2);
+}
+.btn_logout:hover{
+  color: green;
+  border: 3px solid green;
+}
+
+
+.desh_container img{
+  width: 30%;
+}
+.desh_logo_name{
+  font-weight: bolder;
+  font-family: 'Borel', cursive;
+  font-size: 30px;
+}
+
+.desh_logo_name .d_zero{
+  color: rgb(14, 238, 14);
+}
+
+.dash_user_img2{
+  width: 100% !important;
+}
+
+.d_ttl{
+  font-family: 'Borel', cursive;
+}
+
+.au_dash{
+  font-size: 18px;
+  letter-spacing: 9px;
+  font-weight: 800;
+}

@@ -1,0 +1,51 @@
+ [
+    {
+        "id" :1,
+        "img" : "https://i.ibb.co/pwSpyqm/book-1.jpg",
+        "name" : "Venomous Snakes of the World",
+        "writer" : "Mark O'Shea",
+        "bookLink" : "https://www.google.com.bd/books/edition/_/zQlECgAAQBAJ?hl=en&gbpv=1"
+    },
+    {
+        "id" :2,
+        "img" : "https://i.ibb.co/J3TStsV/book-2.jpg",
+        "name" : "The Snake Charmer",
+        "writer" : "Jamie James",
+        "bookLink" : "https://www.academia.edu/9925736/James_The_Snake_Charmer_A_life_and_death_in_pursuit_of_knowledge"
+    },
+    {
+        "id" :3,
+        "img" : "https://i.ibb.co/SPZRSyv/book-3.jpg",
+        "name" : "Snake Venom Proteomics",
+        "writer" : "Jay W. Fox and Daryl R. Williams",
+        "bookLink" : "https://www.google.com.bd/books/edition/Snake_Venom_Metalloproteinases/aHBjDwAAQBAJ?hl=en&gbpv=1&dq=Snake+Venom+Proteomics:+Comparative+Venomics+of+Non-Traditional+Model+Snakes+by+Jay+W.+Fox+and+Daryl+R.+Williams&printsec=frontcover"
+    },
+    {
+        "id" :4,
+        "img" : "https://i.ibb.co/LrRyPdv/book-4.jpg",
+        "name" : "Snakes",
+        "writer" : " Harry W. Greene",
+        "bookLink" : "https://www.google.com.bd/books/edition/Snakes/-zVWiwBLIHoC?hl=en&gbpv=1&dq=%22Snakes:+The+Evolution+of+Mystery+in+Nature%22+by+Harry+W.+Greene&printsec=frontcover"
+    },
+    {
+        "id" :5,
+        "img" : "https://i.ibb.co/WGFBh4N/book-5.jpg",
+        "name" : "Venomous",
+        "writer" : "Christie Wilcox",
+        "bookLink" : "https://www.google.com.bd/books/edition/_/PlKTDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwjcnv-en76AAxWXyqACHdlJCDAQre8FegQIFBAC"
+    },
+    {
+        "id" :6,
+        "img" : "https://i.ibb.co/jzQFhVQ/book-6.jpg",
+        "name" : "The Snakebite Survivors' Club",
+        "writer" : "Jeremy Seal",
+        "bookLink" : "https://books.google.com/books?id=2vVEAAAAYAAJ&q=The+Snakebite+Survivors%27+Club:+Travels+Among+Serpents%22+by+Jeremy+Seal&dq=The+Snakebite+Survivors%27+Club:+Travels+Among+Serpents%22+by+Jeremy+Seal&hl=en&newbks=1&newbks_redir=1&printsec=frontcover&sa=X&ved=2ahUKEwiUndPLoL6AAxXmXqQEHWf1CuAQ6AF6BAgEEAI"
+    },
+    {
+        "id" :7,
+        "img" : "https://i.ibb.co/CzTQHMh/book-7.jpg",
+        "name" : "Venoms to Drugs",
+        "writer" : " Glenn F. King.",
+        "bookLink" : "https://www.google.com.bd/books/edition/Venoms_to_Drugs/Gb-ZBgAAQBAJ?hl=en&gbpv=1&dq=%22Venoms+to+Drugs:+Venom+as+a+Source+for+the+Development+of+Human+Therapeutics%22+by+Glenn+F.+King.&printsec=frontcover"
+    }
+]

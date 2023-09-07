@@ -1,0 +1,33 @@
+
+
+.medicine_container{
+
+    background-color: rgba(177, 182, 175, 0.459);
+}
+.m_crd_btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.m_icon{
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 50%;
+    color: red;
+}
+
+.m_name{
+    color: green;
+    font-weight: 700;
+}
+
+.M_price{
+    color: red;
+    font-weight: 500;
+}
+
+.m_order{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
